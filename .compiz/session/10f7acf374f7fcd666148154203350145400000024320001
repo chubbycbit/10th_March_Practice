@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<compiz_session id="10f7acf374f7fcd666148154203350145400000024320001">
+  <window id="10f7acf374f7fcd666148154259228204100000024320047" title="Installation_Notes.docx - LibreOffice Writer" class="libreoffice-writer" name="libreoffice" command="soffice">
+    <geometry x="65" y="25" width="1181" height="642"/>
+    <minimized/>
+    <workspace index="0"/>
+  </window>
+  <window id="10f7acf374f7fcd666148154259228204100000024320047" title="Install_Document_JENKINS.docx - LibreOffice Writer" class="libreoffice-writer" name="libreoffice" command="soffice">
+    <geometry x="65" y="25" width="1181" height="642"/>
+    <minimized/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

@@ -1,0 +1,23 @@
+status: 200
+content-length: 186
+expires: Thu, 15 Dec 2016 15:36:13 GMT
+content-location: https://reviews.ubuntu.com/reviews/api/1.0/review-stats/any/any/updates-last-1-days/
+strict-transport-security: max-age=15768000; includeSubDomains; preload
+vary: Accept,Accept-Encoding
+server: gunicorn/19.3.0
+last-modified: Thu, 15 Dec 2016 11:36:13 GMT
+x-bzr-revision-number: 321
+cache-control: max-age=14400
+date: Thu, 15 Dec 2016 11:36:13 GMT
+content-type: application/json; charset=utf-8
+-varied-accept-encoding: gzip, deflate
+
+[
+    {
+        "ratings_total": 164, 
+        "ratings_average": "3.68", 
+        "app_name": "", 
+        "package_name": "pdfmod", 
+        "histogram": "[27, 12, 18, 37, 70]"
+    }
+]

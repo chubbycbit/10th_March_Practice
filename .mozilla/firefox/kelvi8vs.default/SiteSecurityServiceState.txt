@@ -1,0 +1,5 @@
+self-repair.mozilla.org:HPKP	0	17569	1518102488669,1,0,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg=sRHdihwgkaib1P1gxX8HFszlD+7/gTfNvuAybgLPNis=
+shavar.services.mozilla.com:HSTS	0	17569	1549552097731,1,1
+self-repair.mozilla.org:HSTS	0	17569	1549552088668,1,1
+blocklist.addons.mozilla.org:HSTS	0	17569	1518016735482,1,0
+aus5.mozilla.org:HSTS	0	17569	1549552140413,1,0
